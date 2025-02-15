@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I 'm Amirmohammad</h1>
-<h1 align="center">A 17-year-old front-end developer has been in this field for about 1 year and I love coding and front-end challenges!</h1>
+<h2 align="center"> a 17-year-old front-end developer. I have been in this field for about 1 year and I love coding and learning the latest technologies in the world and doing difficult challenges.</h2>
 
 - 🌱 I’m currently learning **react**
 
