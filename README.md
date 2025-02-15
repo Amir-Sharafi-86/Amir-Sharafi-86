@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I 'm Amirmohammad</h1>
 <h2 align="center">A passionate frontend developer from Iran</h2>
 
-- 🌱 I’m currently learning **Javascripts**
+- 🌱 I’m currently learning **react**
 
 - 💬 Ask me about **Front end**
 
