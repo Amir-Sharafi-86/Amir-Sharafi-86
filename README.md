@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I 'm Amirmohammad</h1>
-<h2 align="center">A passionate frontend developer from Iran</h2>
+<h1 align="center">A 17-year-old front-end developer has been in this field for about 1 year and I love coding and front-end challenges!</h1>
 
 - 🌱 I’m currently learning **react**
 
