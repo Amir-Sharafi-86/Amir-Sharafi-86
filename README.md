@@ -16,7 +16,7 @@
 
 <h1 align="left">Languages and Tools:</h1>
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,git,github,postman">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,git,github,postman,redux">
 </div>
 
 
