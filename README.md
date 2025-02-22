@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 💬 Ask me about **Front end**
+- 💬 Ask me about **Front End**
 
 - 📫 How to reach me **Amirsharafi8899@gmail.com**
 
