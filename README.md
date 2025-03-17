@@ -1,4 +1,4 @@
-![icons8-swagger-24](https://github.com/user-attachments/assets/3c2e4ec0-9873-4728-9df5-247b72691d00)<h1 align="center">Hi 👋, I 'm Amirmohammad</h1>
+<h1 align="center">Hi 👋, I 'm Amirmohammad</h1>
 <h2 align="center"> A 17-year-old Front-End developer. I have been in this field for about 1 year and I love coding and learning the latest technologies in the world and doing difficult challenges.</h2>
 
 - 🌱 I’m currently learning **Javascript**
