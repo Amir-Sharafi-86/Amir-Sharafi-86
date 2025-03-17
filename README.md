@@ -17,6 +17,7 @@
 <h1 align="left">Languages and Tools:</h1>
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,git,github,postman,figma,npm,vite">
+  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png">
 </div>
 
 
