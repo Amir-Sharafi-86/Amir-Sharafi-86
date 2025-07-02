@@ -16,8 +16,8 @@
 
 <h1 align="left">Languages and Tools:</h1>
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,git,github,postman,figma,npm,vite,pwa">
-  <img width="50px" height="50px" align="left" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="swager" style="max-width: 100%;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,git,github,postman,figma,npm,vite">
+  <img width="48px" height="48px" align="left" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="swager" style="max-width: 100%;">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Amir-Sharafi-86&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> <br/>
