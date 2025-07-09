@@ -17,8 +17,8 @@
 <h1 align="left">🛠️ my Skills and Tools:</h1>
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,git,github,postman,figma,npm,vite">
-  <img width="40px" height="40px" align="left" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="swager" style="max-width: 100%; height: auto; max-height: 40px;">
 
+  <img width="40px" height="40px" align="left" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="swager" style="max-width: 100%; height: auto; max-height: 40px;">
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Amir-Sharafi-86&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Amir-Sharafi-86&theme=dark&hide_border=false)<br/> <br/>
