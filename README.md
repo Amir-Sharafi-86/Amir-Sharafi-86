@@ -16,7 +16,7 @@
 
 <h1 align="left">🛠️ my Skills and Tools:</h1>
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,git,github,postman,figma,npm,vite,react">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,git,github,postman,figma,npm,vite,react , typescrtip">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Amir-Sharafi-86&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> <br/>
