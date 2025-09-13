@@ -8,8 +8,8 @@
 - 📫 How to reach me **Amirsharafi8899@gmail.com**
 
 <h1 align="left">Contact with Me</h1>
-  <img src="https://skillicons.dev/icons?i=instagram , linkedin">
- 
+  <img src="https://skillicons.dev/icons?i=instagram,linkedin">
+  
 </p>
 
 <h1 align="left">🛠️ my Skills and Tools:</h1>
