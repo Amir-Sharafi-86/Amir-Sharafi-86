@@ -11,7 +11,8 @@
 
 
 <a href="https://www.linkedin.com/in/USERNAME/" target="_blank">
-  <img src="https://www.linkedin.com/in/amir-sharafi-805955340/" />
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+  
 </a>
 
   <a href="https://www.instagram.com/USERNAME/" target="_blank">
