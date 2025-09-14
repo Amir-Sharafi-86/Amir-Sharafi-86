@@ -8,7 +8,16 @@
 - 📫 How to reach me **Amirsharafi8899@gmail.com**
 
 <h1 align="left">Contact with Me</h1>
-  <img src="https://skillicons.dev/icons?i=instagram,linkedin">
+
+
+<a href="https://www.linkedin.com/in/USERNAME/" target="_blank">
+  <img src="https://www.linkedin.com/in/amir-sharafi-805955340/" />
+</a>
+
+  <a href="https://www.instagram.com/USERNAME/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
   
 </p>
 
