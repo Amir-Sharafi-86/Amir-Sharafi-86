@@ -10,7 +10,7 @@
 <h1 align="left">Contact with Me</h1>
 
 
-<a href="https://www.linkedin.com/in/USERNAME/" target="_blank">
+<a href="https://www.linkedin.com/in/amir-sharafi-805955340/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
   
 </a>
