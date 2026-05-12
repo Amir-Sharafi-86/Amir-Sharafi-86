@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I 'm Mohammad amin Dehmolaee</h1>
+<h1 align="center">Hi 👋, I 'm  Amirmohammad sharafinik</h1>
 <h2 align="center">  I’m a 17-year-old Front-End developer with about one year of experience. I’m passionate about coding, continuously learning the latest technologies, and enjoy tackling challenging problems. </h2>
 
 - 🌱 I’m currently learning **Typescript,Nextjs,Redux**
